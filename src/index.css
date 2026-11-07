@@ -1,0 +1,13 @@
+body{
+  background-color: #121212;
+  color: #fff;
+  margin: 15px;
+  padding: 15px;
+}
+
+label, .form-label{
+  color: #ffffff !important;
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
